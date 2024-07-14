@@ -73,6 +73,7 @@ Install Requirement
 ```
 pkg install git -y
 git clone https://github.com/HugoXOX3/AndroidKeyHunt.git
+cd AndroidKeyHunt
 chmod +x build.sh
 ./build.sh
 ```
