@@ -54,60 +54,15 @@ Please read the CHANGELOG.md to see the new changes
 
 # Download and build
 
-This program was made in a linux environment.
-if you are windows user i strongly recommend to use WSL enviroment on Windows.
-it is available in the Microsoft store
+Download [Termux](https://github.com/termux/termux-app/releases) from github or other places
 
-Please install on your system
-
-- git
-- build-essential
-
-for legacy version also you are going to need:
-
-- libssl-dev
-- libgmp-dev
-
-On Debian based systems, run this commands to update your current enviroment
-and install the tools needed to compile it
+Install Requirement
 
 ```
-apt update && apt upgrade
 apt install git -y
-apt install build-essential -y
-apt install libssl-dev -y
-apt install libgmp-dev -y
-```
-
-To clone the repository
-
-```
-git clone https://github.com/albertobsd/keyhunt.git
-```
-
-don't forget change to the keyhunt directory (But i'm not here to teach you linux commands)
-
-```
-cd keyhunt
-```
-
-First compile:
-
-```
-make
-```
-
-if you have problems compiling the `main` version you can compile the `legacy` version
-
-```
-make legacy
-```
-
-
-and then execute with `-h` to see the help
-
-```
-./keyhunt -h
+git clone https://github.com/HugoXOX3/AndroidKeyHunt.git
+chmod +x build.sh
+./build.sh
 ```
 
 ## ¡Beta!
