@@ -1,0 +1,1 @@
+./keyhunt -m bsgs -f tests/130.txt -b 130 -R -t 8
