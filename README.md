@@ -59,7 +59,7 @@ Download [Termux](https://github.com/termux/termux-app/releases) from github or 
 Install Requirement
 
 ```
-apt install git -y
+pkg install git -y
 git clone https://github.com/HugoXOX3/AndroidKeyHunt.git
 chmod +x build.sh
 ./build.sh
