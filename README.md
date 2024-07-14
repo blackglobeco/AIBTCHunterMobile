@@ -22,25 +22,14 @@ Work for Ethereum
 
 ```
 
-or
-
-```
-./start66.sh
-```
-
 You need to add `-t numberThreads` to get better speed
 
-- Run against Puzzle 125 (bsgs mode)
+- Run against Puzzle 130 (bsgs mode)
 
 ```
-./keyhunt -m bsgs -f tests/125.txt -b 125 -q -s 10 -R
+./keyhunt -m bsgs -f tests/1230.txt -b 130 -q -s 10 -R
 ```
 
-or
-
-```
-./start130.sh
-```
 
 You need to add `-t numberThreads` and `-k factor` to get better speed
 
@@ -1312,19 +1301,6 @@ This program was possible thanks to
 
 ## Donations
 
-- BTC: 1Coffee1jV4gB5gaXfHgSHDz9xx9QSECVW
-- ETH: 0x6222978c984C22d21b11b5b6b0Dd839C75821069
-- DOGE: DKAG4g2HwVFCLzs7YWdgtcsK6v5jym1ErV
-
-All the donations will be use only for two things:
-
-- Native Windows version with 0 external dependencies.
-- Get an affordable desktop computer with decent GPU not high end, just to start the GPU version.
-
-## Testnet
-
-I also need to make some test in testnet network if you have some Testnet balance can you help me with donations in my testnet address:
-
-Address: msKcxhizYWVvxCACFEG4GCSK1xYrEkib5A
+- BTC: bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
 
 Thank you.
