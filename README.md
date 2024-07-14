@@ -22,12 +22,24 @@ Work for Ethereum
 
 ```
 
+or
+
+```
+./start66.sh
+```
+
 You need to add `-t numberThreads` to get better speed
 
 - Run against Puzzle 125 (bsgs mode)
 
 ```
 ./keyhunt -m bsgs -f tests/125.txt -b 125 -q -s 10 -R
+```
+
+or
+
+```
+./start130.sh
 ```
 
 You need to add `-t numberThreads` and `-k factor` to get better speed
