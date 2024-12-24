@@ -1298,9 +1298,4 @@ This program was possible thanks to
 - All the group of CryptoHunters that made this program possible
 - All the users that tested it, report bugs, requested improvements and shared his knowledge.
 
-
-## Donations
-
-- BTC: bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
-
 Thank you.
